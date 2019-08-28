@@ -1,0 +1,35 @@
+body {
+  background-color: aqua;
+}
+
+h2 {
+ color: orange;
+}
+
+
+article > p {
+  background-color: blue;
+}
+
+div ~ p {
+background-color: teal;
+}
+
+div + p {
+background-color: pink;
+}
+a {
+  color: green;
+}
+
+footer {
+  background-color: black;
+}
+footer a {
+
+color: white;
+}
+
+.active {
+
+}
